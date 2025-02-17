@@ -1,5 +1,5 @@
 {
-        'sshasil': datetime.datetime(2025, 2, 19),
+        'sshasil': datetime.datetime(2025, 1, 19),
         'lisensi': datetime.datetime(2025, 1, 29),
         'lisensi': datetime.datetime(2024, 12, 18),
         'lisensi': datetime.datetime(2024, 12, 23),
