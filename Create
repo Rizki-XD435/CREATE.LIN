@@ -1,5 +1,5 @@
 {
-        'cia76': datetime.datetime(2025, 2, 20),
+        'lisensi': datetime.datetime(2025, 2, 20),
         'lisensi': datetime.datetime(2025, 1, 29),
         'lisensi': datetime.datetime(2024, 12, 18),
         'lisensi': datetime.datetime(2024, 12, 23),
